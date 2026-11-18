@@ -26,7 +26,7 @@ All branding (name, colors, logos, URLs) is driven by a single config file: **`b
 
 ### 1. Prerequisites
 
-- **Node.js 24.x recommended**; Node.js 22.14–22.x is also supported
+- **Node.js 24.22.1+ (24.x)** (see `.nvmrc`); Node.js 22 is no longer supported
 - A **Deriv App ID** — register at [developers.deriv.com](https://developers.deriv.com)
 - A **Deriv OAuth Client ID** — contact Deriv to register your OAuth2 client
 
